@@ -1,1 +1,1 @@
-# demo-project-data-science
+# demo projects on data science
